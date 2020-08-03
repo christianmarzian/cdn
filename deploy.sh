@@ -1,0 +1,1 @@
+scp -r * cdn@cdn.mein-taschenkalender.com:/home/cdn/
